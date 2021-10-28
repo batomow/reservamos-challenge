@@ -1,0 +1,6 @@
+.readings {
+  display: flex;
+  flex-flow: column nowrap;
+  min-width: 300px;
+  margin: 10px;
+}
